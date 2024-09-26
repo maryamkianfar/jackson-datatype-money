@@ -7,7 +7,8 @@
 **Merged pull requests:**
 
 - Fixed Serialization of amount-field when using WRAP\_ROOT\_VALUE [\#332](https://github.com/zalando/jackson-datatype-money/pull/332) ([happyherp](https://github.com/happyherp))
-- Bump dependency-check-maven from 6.3.2 to 6.5.0 [\#331](https://github.com/zalando/jackson-datatype-money/pull/331) ([dependabot[bot]](https://github.com/apps/dependabot))
+- Bump dependency-check-maven from 6.3.2 to 6.5.0 [\#331](https://github.com/zalando/jackson-datatype-money/pull/331) ([dependabot[bot]]
+- (https://github.com/apps/dependabot))
 - Bump mockito-core from 3.12.4 to 4.0.0 [\#329](https://github.com/zalando/jackson-datatype-money/pull/329) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump lombok from 1.18.20 to 1.18.22 [\#328](https://github.com/zalando/jackson-datatype-money/pull/328) ([dependabot[bot]](https://github.com/apps/dependabot))
 - Bump jackson.version from 2.12.5 to 2.13.0 [\#327](https://github.com/zalando/jackson-datatype-money/pull/327) ([dependabot[bot]](https://github.com/apps/dependabot))
